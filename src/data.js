@@ -20,7 +20,6 @@ let data_product = [
             old_price:63.55,
           },
 
-
           {
             id: 3,
             name:"Black Lacoste Ontorio",
