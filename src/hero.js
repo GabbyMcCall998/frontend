@@ -20,7 +20,7 @@ const Hero = () => {
             </div>
             
             <div className="hero-right">
-                 <img className='hero-img' src={require ('./images/IMG_2832-removebg-preview.png')} alt="" />
+                 <img className="" src={require ('./images/profile.png')} alt="" />
             </div>
         </div>
        

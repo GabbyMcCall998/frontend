@@ -1,7 +1,12 @@
-const cart = () => {
-    return ( 
-        <p>njbhvg</p>
-     );
+import CartItems from './CartItems/CartItems';
+
+
+const Cart = () => {
+    return (  
+        <div>
+            <CartItems/>
+        </div>
+    );
 }
  
-export default cart;
+export default Cart;
