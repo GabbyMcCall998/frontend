@@ -8,7 +8,7 @@ const offers = () => {
                 <button>Check Now</button>
             </div>
             <div className="offers-right">
-                <img className='' src={require ('./images/getty-removebg-preview (1) (1).png')} alt="" />
+                <img className='img-offers' src={require ('./images/getty-removebg-preview (1) (1).png')} alt="" />
             </div>
         </div>
      );
