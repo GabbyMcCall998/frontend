@@ -1,4 +1,4 @@
-const footer = () => {
+ const footer = () => {
     return ( 
         <div className="footer">
             <div className="footer-logo">
