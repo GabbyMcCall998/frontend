@@ -2424,7 +2424,8 @@ flex-direction: column;
   }
 
   .cartitems-remove-icon{
-    margin: auto;
+    height: 30px;
+    width: 30px;
     
     }
 }
