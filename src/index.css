@@ -2382,12 +2382,12 @@ flex-direction: column;
 
 @media(max-width:500px){
   .cartitems-format-main{
-    display: none;
-    grid-template-columns: 0.5fr 3fr 0.5fr ;
-    gap: 10px;
+    
+    grid-template-columns: 0.3fr 1fr 0.5fr ;
+    gap: 5px;
   }
   
-  .cartitem-format{
-    display: grid;
-  }
+ 
 }
+
+
