@@ -2318,7 +2318,7 @@ flex-direction: column;
 
 .cartitems-promobox button:active{
   transition: 0.5ms;
-  opacity: 0.5;
+  opacity: 0.6;
 
 }
 
