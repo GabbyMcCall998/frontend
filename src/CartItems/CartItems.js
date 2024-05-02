@@ -22,7 +22,7 @@ const CartItems = () => {
                 {
                     return (
                         <div key={e.id}>
-                            <div className="cartitems-format-main">
+                            <div className="cartitems-format-mains">
                                 <img src={e.image} alt="" className='carticon-product-icon' />
                                 <p>{e.name}</p>
                                 <p>Ghc {e.new_price}</p>
